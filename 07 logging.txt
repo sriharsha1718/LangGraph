@@ -1,0 +1,11 @@
+Your Conversation Log: 
+You: Hi I am Harsha
+AI: Nice to meet you, Harsha. Is there something I can help you with or would you like to chat?
+
+You: How ar you?
+AI: I'm doing well, thanks for asking. I'm a large language model, so I don't have feelings or emotions like humans do, but I'm functioning properly and ready to assist you with any questions or topics you'd like to discuss. How about you, Harsha? How's your day going so far?
+
+You: What is my Name?
+AI: Your name is Harsha.
+
+End of Conversation
